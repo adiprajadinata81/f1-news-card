@@ -14,5 +14,5 @@ Dibuat menggunakan **HTML** dan **CSS** sebagai latihan dasar front-end.
 
 ## Struktur Proyek
 index.html # Halaman utama
-├── styles.css # File CSS
-└── 2232702930.jpg # Mcl39
+styles.css # File CSS
+2232702930.jpg # Mcl39
